@@ -4,8 +4,8 @@ import { cors } from "hono/cors";
 import puppeteer from "puppeteer";
 import "dotenv/config";
 
-import { fetching } from "./fetching";
-import { capitalize } from "./capitalize";
+import { fetching } from "./fetching.js";
+import { capitalize } from "./capitalize.js";
 
 const app = new Hono();
 
