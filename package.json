@@ -1,0 +1,14 @@
+{
+  "name": "summarize",
+  "version": "1.0.0",
+  "description": "Your Web page summarizer with AI",
+  "main": "index.js",
+  "scripts": {
+    "frontend:install": "cd ./summarize-backend && npm install",
+    "backend:install": "cd ./summarize-backend && npm install",
+    "frontend:dev": "cd ./summarize-frontend && npm run dev",
+    "backend:dev": "cd ./summarize-backend && npm run dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
