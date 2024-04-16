@@ -1,4 +1,4 @@
-import { capitalize } from "./capitalize";
+import { capitalize } from "./capitalize.js";
 
 export async function fetching(text: string, token: string, userId: string) {
   try {
