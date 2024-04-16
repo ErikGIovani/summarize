@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-    <a href="">Project Link</a>
+    <a href="https://summarize-erik.vercel.app/">Project Link</a>
     <br>
-    <a href="">Video Link</a>
+    <a href="./video.mp4">Video Link</a>
 </div>
 
 ## Install
